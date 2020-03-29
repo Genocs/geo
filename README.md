@@ -5,7 +5,7 @@ This repo contains geographical data
 Italy folders contains Italian information
 
 ## Italy (ITA Version)
-Nella cartella Italy sono contenute informaizoni rigurdanti Regioni, province e comuni italiani.
+Nella cartella Italy sono contenute informazioni rigurdanti Regioni, Province e Comuni italiani.
 
 | File                      | Descrizione                                                                                                            |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------|
