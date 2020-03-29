@@ -309,9 +309,9 @@
 			]
 		},
 		{
-			"nome": "Trentino-Alto Adige",
+			"nome": "Trentino-Alto Adige/Südtirol",
 			"capoluoghi": [
-				"Bolzano",
+				"Bolzano/Bozen",
 				"Trento"
 			],
 			"province": [
@@ -331,7 +331,7 @@
 			]
 		},
 		{
-			"nome": "Valle d'Aosta",
+			"nome": "Valle d'Aosta/Vallée d'Aoste",
 			"capoluoghi": [
 				"Aosta"
 			],
