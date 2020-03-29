@@ -28,7 +28,7 @@ L'agenzia delle entrate applica una denominazione differente relativa alle regio
 
 ### Links
 - [ISTAT](https://www.istat.it/) 
-- [Agenzia Entrate-f24-codici-tributo](https://www.agenziaentrate.gov.it/portale/web/guest/strumenti/codici-attivita-e-tributo/f24-codici-tributo-per-i-versamenti/tabelle-dei-codici-tributo-e-altri-codici-per-il-modello-f24/tabella-t0-codici-delle-regioni-e-delle-province-autonome/)tabella-t0-codici-delle-regioni-e-delle-province-autonome)
+- [Agenzia Entrate-f24-codici-tributo](https://www.agenziaentrate.gov.it/portale/web/guest/strumenti/codici-attivita-e-tributo/f24-codici-tributo-per-i-versamenti/tabelle-dei-codici-tributo-e-altri-codici-per-il-modello-f24/tabella-t0-codici-delle-regioni-e-delle-province-autonome/)
 
 
 # Disclaimer
